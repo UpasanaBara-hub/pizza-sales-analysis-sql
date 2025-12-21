@@ -56,4 +56,28 @@ The analysis was conducted using structured SQL queries focusing on:
 ---
 
 ## Project Structure
+pizza-sales-analysis-sql/
+│
+├── data/
+│ └── pizza_sales_data.csv
+│
+├── sql/
+│ └── pizza_sales_analysis.sql
+│
+├── visuals/
+│ └── key_insights_charts.png
+│
+└── README.md
+
+
+---
+
+## Conclusion
+This project demonstrates the ability to analyze transactional business data using SQL, calculate key performance indicators, and translate query results into actionable business insights. It highlights strong foundational SQL skills and business analytics thinking relevant to Data Analyst roles.
+
+---
+
+## Author
+Upasana Bara  
+Aspiring Data Analyst | SQL | Python | Excel | Data Analysis
 
