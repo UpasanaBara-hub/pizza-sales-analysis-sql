@@ -23,7 +23,7 @@ The dataset was analyzed to understand sales behavior and operational performanc
 ---
 
 ## Tools and Technologies
-- SQL (MySQL / PostgreSQL compatible queries)
+- SQL (SQL Server)
 - Relational Database Concepts
 - Aggregations, Joins, Subqueries, and CTEs
 
